@@ -1,1 +1,3 @@
-# odin-reecipes
+# odin-recipes
+Primer proyecto certero
+Sigmoid
